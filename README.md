@@ -81,6 +81,33 @@ if (b > 0) {
 }
 ```
 
+# Циклы
+
+## Цикл while
+
+```
+while (условие) {
+  // код, тело цикла
+}
+```
+
+Например, цикл ниже выводит i пока i < 3:
+
+```
+let i = 0;
+while (i < 3) {
+  console.log(i);
+  i = i + 1;
+}
+```
+
+# Функции
+
+```
+function myFunction(argA, argB) {
+  return argA + argB;
+}
+```
 
 # TODO
 
