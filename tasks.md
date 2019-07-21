@@ -2,5 +2,5 @@
 1. Вывести градусы цельсия от 0 до 100 с интервалом в 10 град и соовт. им значения в фаренгейте.
 1. функция которая конвертирует сантиметры в дюймы
 1. функция которая конвертирует километры в мили
-2. Return the factorial of the provided integer.
+2. Return the factorial of the provided integer. (сделано)
 3. Find n-th fibonacci number.
