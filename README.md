@@ -5,4 +5,8 @@ __[Юнит 0](unit0.md)__
 
 __[Юнит 1](unit1.md)__
 
-Строки
+Совмещенные операторы, цикл for, строки
+
+__Unit 2__
+
+Todo: text files, read stdin.
