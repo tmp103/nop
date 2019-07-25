@@ -9,7 +9,7 @@ Unit 0
 
 Unit 1
 
-1. Написать функцию, которая получает 2 строки и выводит в консоль ту, которая длиннее.
+1. Написать функцию, которая получает 2 строки и выводит в консоль ту, которая длиннее (сделано)
 1. Вывести в консоль каждый символ строки в отдельности (циклом) (сделано)
 1. Repeat a given string str (first argument) for num times (second argument). Return an empty string if num is not a positive number.
 1. Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ... ending

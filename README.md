@@ -9,4 +9,4 @@ __[Юнит 1](unit1.md)__
 
 __Unit 2__
 
-Todo: text files, read stdin.
+Todo: text files, read stdin, const, require.
