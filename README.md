@@ -9,4 +9,10 @@ __[Юнит 1](unit1.md)__
 
 __Unit 2__
 
-Todo: text files, read stdin, const, require.
+Todo: text files, const, require; задача - шифровщик файла (путь к файлу жестко прописан)
+
+__Unit 3__
+
+Массивы. 
+
+доделать шифровщик файла с argv[].
